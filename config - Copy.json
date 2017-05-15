@@ -1,0 +1,27 @@
+{
+  "startMessage": "Hello",
+  "botChannel": "ChannelID",
+  "voteThreshold": "3",
+  "command_prefix": ".",
+  "host": "HansAnonymous",
+  "logChannel": "ChannelID",
+  "restartVote": true,
+  "_comment_": [
+    "Place your bot tokens in bots, as many as you want. Have at least 2",
+    "bot_speed is in ms, so 5000 would be 5 sec delay on messages",
+    "You can replace startMessage with whatever",
+    "botChannel is the channel id you want your bots to talk in",
+    "voteThreshold is the number of people required to vote for the bots to restart",
+    "command_prefex is the prefix to do bot commands like restart",
+    "logChannel is the channel id you want the bots to report logs in",
+    "restartVote is a true-false for voting to restart",
+    "you need to enable developer mode on Discord to copy channel ids"
+  ],
+  "bot_speed": "4000",
+  "bots": [
+    "Bot_Token_1",
+    "Bot_Token_2",
+    "Bot_Token_3"
+  ],
+  "cleverbotAPI": "PASTE YOUR CLEVERBOT HERE"
+}
