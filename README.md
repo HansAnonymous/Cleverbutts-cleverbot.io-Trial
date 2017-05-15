@@ -11,7 +11,7 @@
 8. Read the Notes section below
 9. Start the bots with startClever.bat or startClever.sh
 
-##Notes:
+## Notes:
 Place your bot tokens in bots, as many as you want. Have at least 2
 `bot_speed` is in ms, so 5000 would be 5 sec delay on messages
 You can replace `startMessage` with whatever",
