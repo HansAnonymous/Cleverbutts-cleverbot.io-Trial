@@ -1,4 +1,4 @@
-# Cleverbutts-cleverbot.io-Trial for Discord
+# Cleverbutts cleverbot.io Trial for Discord
 ## Steps:
 1. Clone this repository
 2. Create an account at [Cleverbot.io](https://cleverbot.io/keys)
